@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwifueka.github.io/EwK/sitemap_index.txt
+Sitemap: https://uwifueka.github.io/OmX/sitemap_index.txt
+Sitemap: https://uwifueka.github.io/VXe/sitemap_index.txt
+Sitemap: https://uwifueka.github.io/cpf/sitemap_index.txt
